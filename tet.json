@@ -1,0 +1,10 @@
+{
+    "logo": "test.png",
+    "link": "test-Product-link",
+    "title": "test product",
+    "Product-info": {
+        "Name": "test",
+        "img": "test.png",
+        "price": "200 rub"
+    }
+}
